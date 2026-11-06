@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 version ecrite depuis branche_swann
+=======
+version ecrite depuis swann_branche_bis
+>>>>>>> swann_branche_bis
