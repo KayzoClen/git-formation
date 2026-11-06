@@ -1,1 +1,2 @@
 contenu du file2
+version bis
