@@ -1,2 +1,7 @@
 contenu file2
+<<<<<<< HEAD
 modif depuis ma_branche
+=======
+modif depuis bis
+>>>>>>> kannelle_bis
+modif depuis kannelle
