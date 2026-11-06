@@ -1,1 +1,1 @@
-contenu file2
+version BIS file2
