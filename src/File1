@@ -1,2 +1,6 @@
 contenu file1
+<<<<<<< HEAD
 modif depuis Marie
+=======
+modif depuis bis
+>>>>>>> Marie_bis
