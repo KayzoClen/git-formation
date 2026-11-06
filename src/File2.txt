@@ -1,1 +1,2 @@
 File2 modifie depuis ma branche
+File2 modifie depuis la branche bis
